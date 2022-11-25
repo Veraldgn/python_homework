@@ -34,7 +34,7 @@ parts/
 sdist/
 var/
 wheels/
-**/
+#**/
 .installed.cfg
 *.egg
 MANIFEST
